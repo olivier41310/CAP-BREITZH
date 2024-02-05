@@ -1,5 +1,6 @@
+<section id="article">
 <?php include('includes/header.php'); ?>
-
+</section>
 <section class="container">
     <div class="row">
         <h1>Ajouter un séjour</h1>
